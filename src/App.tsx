@@ -1,10 +1,12 @@
-import { Counter } from './components/counter'
+// import { Counter } from './components/counter'
+//import { Saludo } from './components/saludo'
+import { Perfil } from './components/perfil'
 
 function App() {
 
   return (
     <>
-      <Counter/>
+      <Perfil/>
     </>
   )
 }
